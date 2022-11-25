@@ -1,0 +1,46 @@
+body{
+    background-color: rgb(48, 48, 48);
+    font-family: 'Times New Roman', Times, serif ;
+    color: white;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.link:hover{
+    color: blue;
+    }
+
+    p{
+        color: white;
+        font-size: 1.7em;
+    }
+
+    .head{
+        display: flex;
+        justify-content: space-between;
+        background-color: rgb(231, 169, 169);
+        height: 2em;
+        font-size: 3em;
+        align-items: center;
+    }
+
+    .link{
+        font-size: 0.7em;
+        color:rgb(157, 229, 143);
+        text-decoration: none;
+        font-family: 'Times New Roman', Times, serif;
+    }
+    
+    footer{
+        background-color: black ;
+    ;
+      font-size: 1.2em;
+    }
+
+    .border{
+        border: 3px solid #ff0404;
+    }
+
